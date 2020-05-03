@@ -1,5 +1,14 @@
 # Programming Principles
 
+- [SOLID](#solid)
+- [Tell, dont ask](#tell-dont-ask)
+- [KISS](#kiss)
+- [SLAP](#slap)
+- [DRY](#dry)
+- [YAGNI](#yagni)
+- [GRASP](#grasp)
+- [Conways Law](#conways-law)
+
 
 ## SOLID
 
