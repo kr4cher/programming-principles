@@ -12,7 +12,7 @@
 
 ## SOLID
 
-#### **S**ingle Responsibility Principle:
+#### **S**ingle Responsibility Principle
 - jede Klasse hat nur eine Zuständigkeit
 
 #### **O**pen Closed Principle
