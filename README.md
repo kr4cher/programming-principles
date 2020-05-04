@@ -17,7 +17,7 @@
 
 #### **O**pen Closed Principle
 - offen für Erweiterungen
-- geschlossen für Änderungen.
+- geschlossen für Änderungen
 
 #### **L**iskov Substitution Principle
 - Objekte eines abgeleiteten Typs müssen als Ersatz ihres Basistyps funktionieren, ohne die Korrektheit zu ändern.
@@ -30,7 +30,7 @@
 
 #### **D**ependency Inversion Principle
 - High-Level-Module sollten nicht von Low-Level-Modulen abhängen
-- Regeln High-Level vorgegeben, in Low-Level implementiert
+- Regeln in High-Level-Modul vorgegeben, in Low-Level-Modul implementiert
 - ausschließlich von Abstraktionen abhängen\
   &rarr; High-Level-Module können so wiederverwendet werden
 
@@ -97,7 +97,7 @@ Ziel: **Low Representational Gap (LRG)** möglichst klein halten\
 
 #### Indirection
 - Delegation
-- kann Teile des Systems entkoppel, indem Aufgaben ausgelagert werden
+- kann Teile des Systems entkoppeln, indem Aufgaben ausgelagert werden
 
 #### Polymorphism
 - Behandlung von alternativen abhängig vom Typ
